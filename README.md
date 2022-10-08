@@ -23,7 +23,9 @@ The total number of trips taken in the month of August was 2,344,224!  That aver
 
 Let's see what else we can uncover from the data.
 
-![Sharing](https://user-images.githubusercontent.com/107599510/194689791-fde72fe7-a912-4ccf-8bb7-17aaede3d5b8.png)
+![Sharing](https://user-images.githubusercontent.com/107599510/194690347-ac35c15b-2d7e-4fe7-a215-d5d32504bfc6.png)
+
+This chart shows the number of trips by trip duration length.  Most trips last between 0 and 30 minutes with 5 minute duration being the most popular with a count of 146,752 trips.
 
 
 # Summary: 
