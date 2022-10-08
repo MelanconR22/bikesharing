@@ -1,6 +1,6 @@
 # Bikesharing
 
-[link to dashboard](LINK GOES HERE "link to dashboard")
+[link to Randy Melancon's dashboard](https://public.tableau.com/app/profile/randy.l.melancon/viz/Challenge_work/Story1?publish=yes)
 
 # Overview of the analysis: 
 Last summer, a friend and I took the trip of a lifetime to New York City and saw all of the sites.  It was a magical experience.  On the flight home, we realized that part of the magical experience came from an unlikely source, citibike.  My friend and I biked everywhere, which really allowed us to get to know the city and interact with people who live there that are using the bikes for their commutes.  
