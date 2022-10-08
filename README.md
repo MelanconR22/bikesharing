@@ -19,6 +19,12 @@ The data analyzed was collected for the month of August in 2019.  During that mo
 
 ![#_rides](https://user-images.githubusercontent.com/107599510/194689658-633ccece-ebdb-4933-b8f7-6c894a6719ba.png)
 
+The total number of trips taken in the month of August was 2,344,224!  That averages out to 75,620 trips per day based on a 31 day month.  This is an incredibly popular service and New Yorkers and tourists are taking advantage.  
+
+Let's see what else we can uncover from the data.
+
+![Sharing](https://user-images.githubusercontent.com/107599510/194689791-fde72fe7-a912-4ccf-8bb7-17aaede3d5b8.png)
+
 
 # Summary: 
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
