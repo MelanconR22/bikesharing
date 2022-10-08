@@ -27,6 +27,16 @@ Let's see what else we can uncover from the data.
 
 This chart shows the number of trips by trip duration length.  Most trips last between 0 and 30 minutes with 5 minute duration being the most popular with a count of 146,752 trips.
 
+![Gender](https://user-images.githubusercontent.com/107599510/194690406-5ba2ca15-96b4-4fb2-b4a9-5103acd595b3.png)
+
+The next thing to look at is the gender breakout of users.  There are three categories for gender of users.  They are male, female, and unknown.  During the checkout process, some users must skip entering data about their gender.  The total in the unknown category is 225,521 or 9.62%.  Females make up the second largest user of the bikes at 588,431 or 25.10%.  Males make up the largest segment of users with a total of 1,530,272 or 65.28% of total users.  
+
+![minutes_gender](https://user-images.githubusercontent.com/107599510/194690834-f5feeb33-bb70-4ea6-a27d-8c6a0a30df70.png)
+
+The chart above shows trip duration times broken out by gender.  Similar to previous charts, 0 - 30 minutes are a popular time to rent a bike.  Males had a mode of 5 minute trip durations and females had a mode of 6 minute trip durations.  
+
+![Gender_hour](https://user-images.githubusercontent.com/107599510/194691281-fd340831-a6eb-479c-9012-b297067a6f80.png)
+
 
 # Summary: 
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
