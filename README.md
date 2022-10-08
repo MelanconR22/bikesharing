@@ -51,6 +51,14 @@ To try to begin to understand if a bike sharing business will be as successful i
 
 ![age_trip_old](https://user-images.githubusercontent.com/107599510/194692147-609b5eb8-c73c-4015-a9fa-316feaf3fc74.png)
 
+This chart shows the average trip duration based on year of birth for the customer.  This graph is interesting to look at as there are a few spikes for certain birth years but the overall trend shows that customers are using the bikes for longer durations.  There is also a spike in duration for people who were born around the year 1890?  How is that possible?  This data was taken in 2019.  According to the data set, there are a large number of 129 year olds riding around on bikes for close to 45 minutes in New York City.  Why isn't this advertised as a way to encourage more tourism?  Of course that was sarcasm, there are clearly some issues with the data as it relies on the customer to enter information during rental.  
+
+In order to try to make a little more sense out of the data, I removed records of information with individuals that had a birth year prior to 1946.  1946 was the first year of the baby boomer generation and someone would be 73 years old which felt like a natural cutoff point.  In total, there were originally 1,048,576 value counts of data for birth year.  When the oddity years were removed, the data set had 1,045,183 value counts of birth year.  A total of 3,393 records were removed or 0.003% of the data.  
+
+![age_trip_new](https://user-images.githubusercontent.com/107599510/194693832-ae3ef1c5-4972-4ca1-be10-70b7448ce87d.png)
+
+This chart shows data trip counts by birth year between 1946 - 2003.  This chart shows that a heavy chunk of usage comes from people born beween 1975 - 1995.  There is also a rather large spike of counts for people who were born in the year 1969.  There may be some significance to this or it could just be a prank by people entering their birth year while renting a bike.  
+
 
 # Summary: 
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
