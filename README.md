@@ -39,7 +39,17 @@ The chart above shows trip duration times broken out by gender.  Similar to prev
 
 This heat map is showing the usage of bikes by hour, day, and gender.  The overall pattern makes sense with more usage around 8 am as well as 5-7 pm during the week.  On weekends, the usage is a little more spread out through the day with more rides occurring between 10am and 5 pm.
 
+![hour_use](https://user-images.githubusercontent.com/107599510/194691744-76c2f9ff-b904-489b-8d15-890b943abd39.png)
 
+This heat map shows the hours and days that bikes are rented the most.  Keeping with the theme of the previous heat map, this one is broken down by total usage and not split out by gender.  It is a little easier to see the pattern of weekday vs weekend usage.  Interesting that wednesday evening shows less usage while thursday afternoon shows heaviest usage during the week.
+
+![customer_day](https://user-images.githubusercontent.com/107599510/194691916-62ebb134-b4c7-495b-8595-3fe9310cba7f.png)
+
+This heat map breaks out customer and subscriber usertypes.  Customers are people who rented a bike during a single transaction while subscribers pay a monthly fee for the service.  It is also broken out by gender to show which days each genders rent the most bikes.  This chart is interesting because it shows that most subscriber use occurs during the week while the heaviest customer usage comes on weekends with unknown gender type renting the most on weekends.  This makes sense that subscribers are most likely residents of NYC and customers are likely not residents.  
+
+To try to begin to understand if a bike sharing business will be as successful in Des Moines as it is New York City, we need to begin to understand the ages of the customers using the bike sharing service.  
+
+![age_trip_old](https://user-images.githubusercontent.com/107599510/194692147-609b5eb8-c73c-4015-a9fa-316feaf3fc74.png)
 
 
 # Summary: 
