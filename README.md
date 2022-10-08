@@ -35,7 +35,11 @@ The next thing to look at is the gender breakout of users.  There are three cate
 
 The chart above shows trip duration times broken out by gender.  Similar to previous charts, 0 - 30 minutes are a popular time to rent a bike.  Males had a mode of 5 minute trip durations and females had a mode of 6 minute trip durations.  
 
-![Gender_hour](https://user-images.githubusercontent.com/107599510/194691281-fd340831-a6eb-479c-9012-b297067a6f80.png)
+![Gender_hour](https://user-images.githubusercontent.com/107599510/194691659-6de257f2-bba7-401d-8b3f-4e299f4cb0b4.png)
+
+This heat map is showing the usage of bikes by hour, day, and gender.  The overall pattern makes sense with more usage around 8 am as well as 5-7 pm during the week.  On weekends, the usage is a little more spread out through the day with more rides occurring between 10am and 5 pm.
+
+
 
 
 # Summary: 
