@@ -60,5 +60,7 @@ In order to try to make a little more sense out of the data, I removed records o
 This chart shows data trip counts by birth year between 1946 - 2003.  This chart shows that a heavy chunk of usage comes from people born beween 1975 - 1995.  There is also a rather large spike of counts for people who were born in the year 1969.  There may be some significance to this or it could just be a prank by people entering their birth year while renting a bike.  
 
 
-# Summary: 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+# Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+In order to see if the bike sharing company would be sucessful in Des Moines, I would be interested in looking at demographic information for Des Moines and compare it to the demographics of the users in New York City.  The demogaphic data from Des Moines isn't included in the data set.  I would look a little further into the habits of subscribers versus customers as well as do more detailed analysis on the starting and ending stations for the bikes.  There might be a relevant pattern for customers and the lengths they travel and I would want to make sure the bikes supported those needs.  I would also want to make sure bikes are avaiable and rotating properly from a usage standpoint at the busiest stations for subscribers.  
+
